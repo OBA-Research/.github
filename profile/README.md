@@ -3,11 +3,7 @@
 A collection of repositories supporting my PhD work in computer vision, indoor scene geolocation, colour-aware representations, image integrity analysis, and multimodal AI systems. This organization hosts the code, experiments, and reproducible pipelines developed throughout my research at SETU.
 
 ## Research Focus
-- Indoor scene geolocation  
-- Colour-augmented visual representations  
-- Image integrity and anomaly analysis  
-- Open-set object detection  
-- Multimodal and high-performance AI systems  
+
 
 ## Core Projects
 - Improving Image Embeddings with Color Features in Indoor Scene Geolocation
