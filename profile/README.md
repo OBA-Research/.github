@@ -6,9 +6,11 @@ A collection of repositories supporting PhD work in computer vision, indoor scen
 
 
 ## Core Projects
-- **ColourNembedding**: Full reproducible experimentation repository for the Image Embeddings and colour features research paper in Indoor Scene Geolocation
-- **VAAS-experiments**: Full reproducible VAAS research paper experimentation repository.  
-- **VAAS**: Inference-first library for image integrity analysis.  
+- [**VAAS**](https://github.com/OBA-Research/VAAS): Inference-first library for image integrity analysis.
+- [**VAAS-experiments**](https://github.com/OBA-Research/VAAS-experiments): Full reproducible VAAS research paper experimentation repository.
+- [**ColourNembedding**](https://github.com/OBA-Research/colourNembedding): Full reproducible experimentation repository for the Image Embeddings and colour features research paper in Indoor Scene Geolocation
+- **Computer Vision for Multimodal Geolocation**: A Systematic review 
+
 
 
 ## Reproducibility
