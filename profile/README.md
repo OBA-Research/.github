@@ -1,15 +1,15 @@
 # OBA-Research
 
-A collection of repositories supporting PhD work in computer vision, indoor scene geolocation, colour-aware representations, image integrity analysis, and multimodal AI systems. This organization hosts the code, experiments, and reproducible pipelines developed throughout the research at SETU.
+A collection of repositories supporting PhD work in computer vision, indoor scene geolocation, colour-aware representations, image integrity analysis, and multimodal AI systems. It hosts the code, experiments, and reproducible pipelines developed throughout the research at SETU.
 
 ## Research Focus
 
 
 ## Core Projects
 - [**VAAS**](https://github.com/OBA-Research/VAAS): Inference-first library for image integrity analysis.
-- [**VAAS-experiments**](https://github.com/OBA-Research/VAAS-experiments): Full reproducible VAAS research paper experimentation repository.
-- [**ColourNembedding**](https://github.com/OBA-Research/colourNembedding): Full reproducible experimentation repository for the Image Embeddings and colour features research paper in Indoor Scene Geolocation
-- **Computer Vision for Multimodal Geolocation**: A Systematic review 
+- [**VAAS-experiments**](https://github.com/OBA-Research/VAAS-experiments): Vision Attention Anomaly Scoring research paper experimentation repository.
+- [**ColourNembedding**](https://github.com/OBA-Research/colourNembedding): Image Embeddings and colour features research paper in Indoor Scene Geolocation experimentation repository 
+- [**Computer Vision for Multimodal Geolocation**](https://arxiv.org/abs/2402.15448): A Systematic review research paper 
 
 
 
