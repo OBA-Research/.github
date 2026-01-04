@@ -1,6 +1,11 @@
 # OBA-Research
 
-A collection of repositories supporting PhD work in computer vision, indoor scene geolocation, colour-aware representations, image integrity analysis, and multimodal AI systems. It hosts the code, experiments, and reproducible pipelines driven by research.
+OBA-Research is a collection of research code, datasets, and experimental
+frameworks related to computer vision, visual integrity analysis, and
+multimodal learning.
+
+Projects hosted here support ongoing academic research and reproducible
+experimentation, and may be accompanied by peer-reviewed publications.
 
 ## Core Projects
 - [**VAAS**](https://github.com/OBA-Research/VAAS): Inference-first library for image integrity analysis.
@@ -9,8 +14,4 @@ A collection of repositories supporting PhD work in computer vision, indoor scen
 - [**Computer Vision for Multimodal Geolocation**](https://arxiv.org/abs/2402.15448): A Systematic review research paper 
 
 ## Reproducibility
-All repositories follow consistent split tracking, transparent configurations, and open evaluation pipelines to ensure experiment reproducibility.
-
-## Profile
-PhD Candidate, SETU · Computer Vision · Multimodal AI · HPC for AI  
-Portfolio: https://opeyemibami.github.io/
+All repositories follow consistent split tracking, transparent configurations, and open evaluation pipelines to ensure experiment reproducibility
