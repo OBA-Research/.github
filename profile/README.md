@@ -4,8 +4,7 @@ OBA-Research is a collection of research code, datasets, and experimental
 frameworks related to computer vision, visual integrity analysis, and
 multimodal learning.
 
-Projects hosted here support ongoing academic research and reproducible
-experimentation, and may be accompanied by peer-reviewed publications.
+Projects hosted here are research-driven, reproducible, and may be accompanied by peer-reviewed publications.
 
 ## Core Projects
 - [**VAAS**](https://github.com/OBA-Research/VAAS): Inference-first library for image integrity analysis.
